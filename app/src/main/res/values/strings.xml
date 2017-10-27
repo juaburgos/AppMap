@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyMapp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="municipio">municipio</string>
+    <string name="departamento">departamento</string>
+    <string name="tipo">tipo</string>
+    <string name="nombre">nombre</string>
+    <string name="direccion">direccion</string>
+    <string name="telefono">telefono</string>
+</resources>
